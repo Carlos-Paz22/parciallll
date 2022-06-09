@@ -1,0 +1,9 @@
+MYSQL_HOSTMANE=academia.c1mebdhdxytu.us-east-1.rds.amazonaws.com
+MYSQL_USERNAME=p4
+MYSQL_PASSWORD=ALrUBIaLYcHR
+MYSQL_DATABASE=p4
+MYSQL_PORT=3306
+
+SMTP_HOSTNAME=smtp.gmail.com:587
+SMTP_USERNAME=1006849177
+SMTP_PASSWORD=hermelsalazar2020@itp.edu.co
